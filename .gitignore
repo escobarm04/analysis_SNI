@@ -1,0 +1,4 @@
+#ignorar los temporales
+.RData
+.Rhistory
+.DS_Store
